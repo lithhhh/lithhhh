@@ -6,7 +6,6 @@
 - 🔭 Atualmente estudo na Trybe! ...
 - 🌱 Aprendendo e aperfeiçoando Typescript e um pouquinho de MongoDB ...
 - 📫 Em meu tempo livre, gosto de jogar cardgames e rpg!
-- 😄 Resido em Florianópolis - SC
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lithhhh&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide=stars,issues)
 
@@ -26,9 +25,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" />
-          
-          
-          
 </div>
           
           
